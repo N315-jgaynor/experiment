@@ -93,7 +93,7 @@ p {
 @media screen and (max-width: 960px) {
   .navHolder {
     background-color: #cc2231;
-    z-index: inherit;
+    z-index: 10;
   }
   .navHolder .links {
     position: fixed;
@@ -131,8 +131,25 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 500px;
+  min-height: 600px;
   margin: 30px;
+}
+.gameHolder .game-desc {
+  text-align: center;
+  margin: 20px auto;
+}
+
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Lato;
+  color: #fff;
+  background-color: #cc2231;
+}
+footer p {
+  margin: auto 40px;
 }
 
 /*# sourceMappingURL=styles.css.map */

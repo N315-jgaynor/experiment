@@ -1,0 +1,13 @@
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Lato;
+  color: #fff;
+  background-color: $site-red;
+
+  p {
+    margin: auto 40px;
+  }
+}

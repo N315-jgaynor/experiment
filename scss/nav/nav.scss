@@ -68,7 +68,7 @@
 @media screen and (max-width: 960px) {
   .navHolder {
     background-color: $site-red;
-    z-index: inherit;
+    z-index: 10;
 
     .nav-logo {
       .nav-logo-img {

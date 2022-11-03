@@ -19,7 +19,7 @@ var GAMES = [
     gameTitle: "Lego Ninjago",
     gameImg: "thumb3_300x300.jpg",
     gameDesc:
-      "Lego Ninjago is a game in which players navigate a digial world fighting enemies using supernatural powers. Each character is assigned a power according to the elements, including but not limited to earth and fire.",
+      "Lego Ninjago is a game in which players navigate a digial world fighting enemies using supernatural powers. Each character is assigned a power according to the elements, such as fire.",
     gameRanking: "#3",
   },
 
@@ -35,7 +35,7 @@ var GAMES = [
     gameTitle: "Super Smash Bros",
     gameImg: "thumb5_300x300.jpg",
     gameDesc:
-      "This game involves selecting different characters with unique powers and battling for grand prizes.",
+      "This game involves selecting different characters with unique powers and battling for grand prizes. Players can choose between characters found in several video games.",
     gameRanking: "#5",
   },
 
@@ -43,7 +43,7 @@ var GAMES = [
     gameTitle: "Animal Crossing",
     gameImg: "thumb6_300x300.jpg",
     gameDesc:
-      "Animal Crossing is a game which players navigate a digital world while completing side quests and building their house.",
+      "Animal Crossing is a game which players navigate a digital world while completing side quests and building their house. This game is popular among younger players and older players alike.",
     gameRanking: "#6",
   },
 
@@ -59,7 +59,7 @@ var GAMES = [
     gameTitle: "Lego Star Wars",
     gameImg: "thumb8_300x300.jpg",
     gameDesc:
-      "Lego Star Wars is a lego variation of the popular Star Wars series. Players fight evil villians and build their arsenal along the way.",
+      "Lego Star Wars is a lego variation of the popular Star Wars series. Players fight evil villians and build their arsenal along the way. Evil villians are unlocked for play later in the game.",
     gameRanking: "#8",
   },
 
@@ -67,7 +67,7 @@ var GAMES = [
     gameTitle: "Luigi's Mansion",
     gameImg: "thumb9_300x300.jpg",
     gameDesc:
-      "Luigi's Mansion is a game in which Luigi navigates a mansion with fun surprises along the way.",
+      "Luigi's Mansion is a game in which Luigi navigates a mansion with fun surprises along the way. It features several characters from the Mario universe, including Luigi and Mario.",
     gameRanking: "#9",
   },
 
