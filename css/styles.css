@@ -19,6 +19,16 @@ p {
   margin-bottom: 16px;
 }
 
+#app {
+  display: flex;
+  padding-top: 120px;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-family: Lato;
+}
+
 @font-face {
   font-family: Lato;
   src: url(fonts/Lato-Regular.ttf);
@@ -30,6 +40,8 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #fff;
+  z-index: 10;
 }
 .navHolder .nav-logo {
   width: 300px;
@@ -81,6 +93,7 @@ p {
 @media screen and (max-width: 960px) {
   .navHolder {
     background-color: #cc2231;
+    z-index: inherit;
   }
   .navHolder .links {
     position: fixed;
@@ -109,6 +122,17 @@ p {
   .navHolder .bars .bar {
     background-color: white;
   }
+}
+.gameHolder {
+  width: 400px;
+  border: 10px solid #cc2231;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  margin: 30px;
 }
 
 /*# sourceMappingURL=styles.css.map */

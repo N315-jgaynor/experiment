@@ -1,0 +1,18 @@
+// .home {
+.gameHolder {
+  width: 400px;
+  border: 10px solid $site-red;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  margin: 30px;
+
+  h1 {
+  }
+
+  .game-image {
+  }
+}
